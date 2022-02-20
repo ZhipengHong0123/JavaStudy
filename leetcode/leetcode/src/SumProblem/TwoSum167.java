@@ -1,3 +1,5 @@
+package SumProblem;
+
 import java.util.HashMap;
 
 public class TwoSum167 {

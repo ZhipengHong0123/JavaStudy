@@ -1,3 +1,5 @@
+package Tree;
+
 public class pathsum112 {
     public boolean hasPathSum(TreeNode root, int targetSum) {
         if (root == null) return false;

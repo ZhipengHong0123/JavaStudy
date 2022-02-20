@@ -1,14 +1,13 @@
-public class MaxDepthofTree104 {
-    public int maxDepth(TreeNode root) {
-        if (root==null){
-            return 0;
-        }else{
-            int left_depth=maxDepth(root.left);
-            int right_depth=maxDepth(root.right);
-            return Math.max(left_depth,right_depth)+1;
-        }
-    }
+package Tree;
 
+public class InsertBST701 {
+    public TreeNode insertIntoBST(TreeNode root, int val) {
+        if (root ==null) return new  TreeNode(val);
+        if (root.val < val) root.right = insertIntoBST(root.right,val);
+        else root.left = insertIntoBST(root.left, val);
+        return root;
+
+    }
 
     public class TreeNode {
         int val;

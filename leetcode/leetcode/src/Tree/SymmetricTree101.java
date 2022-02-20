@@ -1,16 +1,19 @@
-public class ValidBST98 {
-    public boolean isValidBST(TreeNode root) {
-        return valid(root, null, null);
-    }
+package Tree;
 
-    public boolean valid(TreeNode root, Integer low, Integer high) {
-        if (root == null) {
+import com.sun.source.tree.Tree;
+
+public class SymmetricTree101 {
+
+    public boolean isSymmetric(TreeNode root) {
+        return isMirror(root,root);
+    }
+    public boolean isMirror(TreeNode t1,TreeNode t2){
+        if (t1==null && t2==null){
             return true;
-        }
-        if ((low != null && root.val <= low) || (high != null && root.val >= high)) {
+        }else if (t1==null || t2==null){
             return false;
         }
-        return valid(root.right, root.val, high) && valid(root.left, low, root.val);
+        return (t1.val==t2.val)&&(isMirror(t1.left,t2.right)) &&(isMirror(t1.right,t2.left));
     }
 
 

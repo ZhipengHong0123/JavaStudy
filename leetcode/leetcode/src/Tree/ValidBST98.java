@@ -1,17 +1,18 @@
-import com.sun.source.tree.Tree;
+package Tree;
 
-public class SymmetricTree101 {
-
-    public boolean isSymmetric(TreeNode root) {
-        return isMirror(root,root);
+public class ValidBST98 {
+    public boolean isValidBST(TreeNode root) {
+        return valid(root, null, null);
     }
-    public boolean isMirror(TreeNode t1,TreeNode t2){
-        if (t1==null && t2==null){
+
+    public boolean valid(TreeNode root, Integer low, Integer high) {
+        if (root == null) {
             return true;
-        }else if (t1==null || t2==null){
+        }
+        if ((low != null && root.val <= low) || (high != null && root.val >= high)) {
             return false;
         }
-        return (t1.val==t2.val)&&(isMirror(t1.left,t2.right)) &&(isMirror(t1.right,t2.left));
+        return valid(root.right, root.val, high) && valid(root.left, low, root.val);
     }
 
 

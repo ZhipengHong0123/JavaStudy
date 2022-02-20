@@ -1,17 +1,14 @@
-import com.sun.source.tree.Tree;
+package Tree;
 
-public class InvertBinaryTree226 {
-
-
-    public TreeNode invertTree(TreeNode root) {
-        if (root == null){
-            return root;
+public class MaxDepthofTree104 {
+    public int maxDepth(TreeNode root) {
+        if (root==null){
+            return 0;
+        }else{
+            int left_depth=maxDepth(root.left);
+            int right_depth=maxDepth(root.right);
+            return Math.max(left_depth,right_depth)+1;
         }
-        TreeNode left = invertTree(root.left);
-        TreeNode right = invertTree(root.right);
-        root.left=right;
-        root.right = left;
-        return root;
     }
 
 

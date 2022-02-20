@@ -1,3 +1,5 @@
+package Tree;
+
 public class BinarySearchTree700 {
     public TreeNode searchBST(TreeNode root, int val) {
         if (root == null) return null;

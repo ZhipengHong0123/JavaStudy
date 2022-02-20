@@ -1,11 +1,21 @@
-public class InsertBST701 {
-    public TreeNode insertIntoBST(TreeNode root, int val) {
-        if (root ==null) return new  TreeNode(val);
-        if (root.val < val) root.right = insertIntoBST(root.right,val);
-        else root.left = insertIntoBST(root.left, val);
-        return root;
+package Tree;
 
+import com.sun.source.tree.Tree;
+
+public class InvertBinaryTree226 {
+
+
+    public TreeNode invertTree(TreeNode root) {
+        if (root == null){
+            return root;
+        }
+        TreeNode left = invertTree(root.left);
+        TreeNode right = invertTree(root.right);
+        root.left=right;
+        root.right = left;
+        return root;
     }
+
 
     public class TreeNode {
         int val;
