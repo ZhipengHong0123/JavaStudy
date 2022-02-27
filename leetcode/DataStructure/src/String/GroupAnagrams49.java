@@ -2,7 +2,7 @@ package String;
 
 import java.util.*;
 
-public class GroupAnagrams {
+public class GroupAnagrams49 {
     public List<List<String>> groupAnagrams(String[] strs) {
         if (strs.length==0){
             return new ArrayList<>();
@@ -17,6 +17,6 @@ public class GroupAnagrams {
                 ans.get(key).add(s);
             }
         }
-        return new ArrayList<>(ans.values());
+        return new ArrayList(ans.values());
     }
 }

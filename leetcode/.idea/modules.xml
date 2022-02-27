@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorism/Algorism.iml" filepath="$PROJECT_DIR$/Algorism/Algorism.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgrammSkill/ProgrammSkill.iml" filepath="$PROJECT_DIR$/ProgrammSkill/ProgrammSkill.iml" />
-      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/leetcode.iml" filepath="$PROJECT_DIR$/DataStructure/leetcode.iml" />
     </modules>
   </component>
 </project>

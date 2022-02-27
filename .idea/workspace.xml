@@ -2,10 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb7329ae-43a1-455d-a6c6-85473cc919c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/leetcode/src/MergeTwoSortList21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/Algorism/Algorism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/Algorism/Algorism.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/leetcode/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/leetcode/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/leetcode/src/LinkedListCycle141.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/leetcode/src/LinkedListCycle141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/String/MuliplyStrings43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/String/RepeatDNA187.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/IncreaseTripletSub334.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/IncreaseTripletSub334.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/IntersectionOfTwoArrays350.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/IntersectionOfTwoArrays350.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/LinkedListCycle141.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/LinkedListCycle141.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/MajorityElement169.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/MajorityElement169.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/MaximumSubarray53.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/MaximumSubarray53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/MergeInterval56.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/MergeInterval56.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/MergeSortedArray88.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/MergeSortedArray88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/MergeTwoSortList21.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/MergeTwoSortList21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/PascalTrangle118.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/PascalTrangle118.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/PascalTrangle119.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/PascalTrangle119.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/RemoveDuplicateList83.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/RemoveDuplicateList83.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/RemoveLinkedList203.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/RemoveLinkedList203.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/ReverseLinkedList206.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/ReverseLinkedList206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/RotateImage48.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/RotateImage48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/SingleNumber136.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/SingleNumber136.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/SortColor75.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/SortColor75.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/SpiralMatrix59.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/SpiralMatrix59.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Array/ThreeSum15.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Array/ThreeSum15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/BestTimeStock121.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/BestTimeStock121.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/ContainsDuplicate219.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/ContainsDuplicate219.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/ContainsDuplicate220.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/ContainsDuplicate220.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/FirstUnique387.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/FirstUnique387.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/ImplementQueue232.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/ImplementQueue232.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/RansomNote383.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/RansomNote383.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/ReshapeMatrix566.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/ReshapeMatrix566.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Review/PascalTriangle119.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Review/PascalTriangle119.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/String/AddString415.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/String/AddString415.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/String/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/String/GroupAnagrams49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/String/PartitionLabels763.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/String/PartitionLabels763.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/String/WordParrern290.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/String/WordParrern290.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/SumProblem/TwoSum167.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/SumProblem/TwoSum167.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/SumProblem/TwoSumTree653.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/SumProblem/TwoSumTree653.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/SumProblem/twosum1.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/SumProblem/twosum1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Tree/BinarySearchTree700.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Tree/BinarySearchTree700.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Tree/BinaryTreeInorder94.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Tree/BinaryTreeInorder94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Tree/BinaryTreeOrder144.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Tree/BinaryTreeOrder144.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Tree/BinaryTreePoster145.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Tree/BinaryTreePoster145.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Tree/InsertBST701.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Tree/InsertBST701.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Tree/InvertBinaryTree226.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Tree/InvertBinaryTree226.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Tree/LowestCommonBST235.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Tree/LowestCommonBST235.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Tree/MaxDepthofTree104.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Tree/MaxDepthofTree104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Tree/Search2D74.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Tree/Search2D74.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Tree/SymmetricTree101.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Tree/SymmetricTree101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Tree/ValidBST98.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Tree/ValidBST98.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/Tree/pathsum112.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/Tree/pathsum112.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/ValidAnagram242.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/ValidAnagram242.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/ValidParentheses20.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/ValidParentheses20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/ValidSudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/DataStructure/src/containsduplicate217.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/DataStructure/src/containsduplicate217.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/out/production/leetcode/ValidParentheses20.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/out/production/leetcode/ValidParentheses20.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +74,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="24QqZS8Ckl7hggJsSvkZD5icA4l" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -33,7 +88,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataStructure" />
   </component>
   <component name="RunManager">
     <configuration name="ContainerWater11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -70,6 +125,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
